@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.zeeing.braingame",
+      "sha256_cert_fingerprints": [
+        "27:D2:06:1C:1F:ED:5E:7E:3C:C4:A2:50:6D:94:36:46:1A:DC:7B:E2:88:87:37:35:E3:CA:42:79:F9:B1:43:C3",
+        "01:1E:7D:CE:A3:99:B4:0F:4D:4E:B9:F0:31:7B:62:8F:81:D2:24:3C:2D:E5:D7:C4:25:CA:4F:F8:18:3C:BF:F2"
+      ]
+    }
+  }
+]
